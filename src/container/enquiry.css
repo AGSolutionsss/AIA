@@ -1,0 +1,9 @@
+.mobileview{
+    margin-top: 10% !important;
+}
+
+@media screen and (max-width: 480px){
+    .mobileview{
+        margin-top: 30% !important;
+    }
+}
